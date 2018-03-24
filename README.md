@@ -1,2 +1,2 @@
-# Mechine-Leaning
+# Machine-Leaning
 principle, methodology
